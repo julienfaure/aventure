@@ -1,14 +1,15 @@
 const passage={
     id: "introduction",
-    title: "Le commencement",
+    title: "1",
     resume: `Le héros demande au compagnon de lui faire vivre une aventure.`,   
     texte: `Depuis l'ombre d'un des peupliers qui bordent la place de l'église, vous observez la seule rue du village.
-    Dans l'épaisse couche de poussière crayeuse blanche qui recouvre vos bottes, seules vos traces.
-    Le ciel dégagé, à défaut de vous protéger de la chaleur estivale, vous permet d'apercevoir le pic rocheux du Nid
-     s'élevant au dessus des versants vordoyants.`,
+    Il n'y a que vos traces de pas dans l'épaisse couche de poussière crayeuse blanche qui recouvre aussi vos bottes.
+    Le ciel dégagé vous permet d'apercevoir le "Pic du Nid du Monde" encore enneigé 
+    s'élevant au dessus des versants vordoyants.
+    Vous pestez contre le bruit lointain de la mine qui vous empêche de dormir de jour comme de nuit mais
+    votre agacement contre ces machines trahit surtout votre ennui profond. Vous vous tournez vers votre compagnon:
+    `,
     illustration: null, 
-    ambiance: `Ruelle vide d'un village de montagne en plein été. Il fait chaud. 
-    Le héros est à l'ombre d'un arbre sur un banc.`,
      choix: [
         {
             texte: `je veux vivre une aventure`,

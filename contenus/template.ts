@@ -4,7 +4,6 @@ const passage={
     resume: `résumé`,
     texte: `texte du template`,
     illustration: null, 
-    ambiance: `grosse ambiance`,
     choix: [
         {
             texte: `choix 1`,
