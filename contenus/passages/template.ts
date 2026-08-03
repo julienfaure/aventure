@@ -1,6 +1,6 @@
 const passage={
     id: "Template",
-    title: "Le template",
+    number: "Le template",
     resume: `résumé`,
     texte: `texte du template`,
     illustration: null, 
