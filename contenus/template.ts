@@ -1,17 +1,18 @@
 const passage={
     id: "Template",
     title: "Le template",
-    texte: ["J'aime les pommes"],
+    resume: `résumé`,
+    texte: `texte du template`,
     illustration: null, 
-    ambiance: "grosse ambiance",
+    ambiance: `grosse ambiance`,
     choix: [
         {
-            texte: "choix 1",
-            destination: "Template X"
+            texte: `choix 1`,
+            destination: "Template-X"
         },
         {
-            texte: "choix 2",
-            destination: "Template Y"
+            texte: `choix 2`,
+            destination: "Template-Y"
         }
     ]
 };
